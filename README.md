@@ -1,2 +1,1 @@
-PROJECT
 It is an endless 2D Arcade-Shooter, where you have in control a character that has a gun and the goal of the game is to make highscore by shooting different targets coming down from the top of the screen. Collect power ups and try to prevent these targets from touching the ground. Are you strong enough to deal with these difficulties? Let's test your reaction. Give it a try and wish you the best!
